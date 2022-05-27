@@ -1,0 +1,26 @@
+{
+  "id": "1",
+  "name": "OrgName",
+  "type": "",
+  "keys": {},
+  "devices": {
+    "SB": 158,
+    "MONITOR": 150,
+    "UPS": 150,
+    "SERVER": 150,
+    "SWITCH": 150,
+    "SWITCH_NU": 150,
+    "PU": 11,
+    "NET": 10,
+    "LAN": 1
+  },
+  "locations": {
+    "20": {
+      "title": "20",
+      "floor": 1,
+      "key": "1-20",
+      "devices": [1234, 4314]
+    }
+  },
+  "inventory": {}
+}
